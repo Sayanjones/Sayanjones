@@ -24,7 +24,7 @@
 		
 	# return public ambitions ...
 	def Ambitions():
-		Be_A_Successful_coder()
+		Tring_Be_A_Perfectionist()
 		Contribute_My_Skills_For_Betterment()
 		Be_The_Best()
 		# assume 10  more ambitions here ;)
