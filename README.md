@@ -1,8 +1,43 @@
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--defining python code section-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanjones" alt="sayanjones" /></a> </p>
+## Who am I :point_down:?
+```python
+ from Sayan_M import personal_details
+ # from Sayan_Personal import personal_ambitions
+ 
+ class WhoAmI:
+ 	name = 'Sayan Mandal'
+	current_education = "B.Tech IT"
+	hobbies = [
+				'Coding',
+				'Listening to Music ;-;',
+				'Watching Series :)',
+		                'Making friends ...'
+				
+        			
+			]
+			
+	# return city name ...
+	def getCity():
+		return Kolkata_India()
+		
+	# return public ambitions ...
+	def Ambitions():
+		Be_A_Successful_coder()
+		Contribute_My_Skills_For_Betterment()
+		Be_The_Best()
+		# assume 10  more ambitions here ;)
+		
+		
+	
+```
 
+			
+
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+## Current Status
 - 🔭 I’m currently working on **Gen AI & LLMs**
 
 - 🌱 I’m currently diving more deeper into **Deep Learning, LLMs & polishing my DSA skills.**
