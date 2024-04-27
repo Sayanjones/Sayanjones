@@ -44,7 +44,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects**
 
-- 📝 I regularly write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
+- 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning & Web Development**
 
