@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **sayanjones77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YSGrri_7fEFLODClM4FIbVjmPEwMp0An/view?usp=sharing](https://drive.google.com/file/d/1YSGrri_7fEFLODClM4FIbVjmPEwMp0An/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1YSGrri_7fEFLODClM4FIbVjmPEwMp0An/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
