@@ -1,39 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Mandal</h1>
-## Who am I :point_down:?
-```python
- from Sayan_M import personal_details
- # from Sayan_Personal import personal_ambitions
- 
- class WhoAmI:
- 	name = 'Sayan Mandal'
-	current_education = "B.Tech IT"
-	hobbies = [
-				'Coding',
-				'Listening to Music ;-;',
-				'Watching Series :)',
-		                'Making friends ...'
-				
-        			
-			]
-			
-	# return city name ...
-	def getCity():
-		return Kolkata_India()
-		
-	# return public ambitions ...
-	def Ambitions():
-		Be_A_Successful_coder()
-		Contribute_My_Skills_For_Betterment()
-		Be_The_Best()
-		# assume 10  more ambitions here ;)
-
-
-  
-  ```
-
-
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanjones" alt="sayanjones" /></a> </p>
 
@@ -65,9 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanjones&show_icons=true&locale=en&layout=compact" alt="sayanjones" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjones&" alt="sayanjones" /></p>
-
-
-<!---
-Sayanjones/Sayanjones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
