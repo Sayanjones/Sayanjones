@@ -44,7 +44,7 @@
 ## Current Status
 - 🔭 I’m currently working on **Deep Learning & Gen AI.**
 
-- 🌱 I’m diving deeper into **LLMs & polishing my DSA skills.**
+- 🌱 I’m currently learning **LLMs & polishing my DSA skills.**
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects.**
 
