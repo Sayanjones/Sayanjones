@@ -14,14 +14,15 @@
  	name = 'Sayan Mandal'
 	current_education = "B.Tech IT"
 	hobbies: List[str] = [
-                              'Coding',
-                              'Music',
-                              'Series',
-                              'Making friends'
+
+                               'Coding',
+                               'Music',
+                               'Series',
+                               'Making friends'.
+
                              ]
 
 				
-			
 	# return city name ...
 	def getCity():
 		return Kolkata_India()
@@ -36,7 +37,6 @@
 		
 	
 ```
-
 			
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
