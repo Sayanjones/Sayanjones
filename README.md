@@ -24,7 +24,7 @@
 
 				
 	# return city name ...
-	def getCity():
+	def MyCity():
 		return Kolkata_India()
 		
 	# return public ambitions ...
