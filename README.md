@@ -31,6 +31,7 @@
 	def Ambitions():
 		Tring_Be_A_Perfectionist()
 		Connect_with_passionate_individuals()
+                Collaborative_work_environment()
 		Leave_a_lasting_mark()
 		# assume 10  more ambitions here ;)
 		
