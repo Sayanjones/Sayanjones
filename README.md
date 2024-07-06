@@ -29,8 +29,8 @@
 	# return public ambitions ...
 	def Ambitions():
 		Tring_Be_A_Perfectionist()
-		Contribute_My_Skills_For_Betterment()
-		Be_The_Best()
+		Connect_with_passionate_individuals()
+		Leave_a_lasting_mark()
 		# assume 10  more ambitions here ;)
 		
 		
