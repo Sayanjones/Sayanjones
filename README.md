@@ -4,7 +4,7 @@
 </p>
 <hr>
 <!--defining python code section-->
-
+[![](https://visitcount.itsvg.in/api?id=amajaying&icon=4&color=12)](https://visitcount.itsvg.in)
 ## Who am I :point_down:?
 ```python
  from Sayan_M import personal_details
