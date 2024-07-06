@@ -71,5 +71,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjones&" alt="sayanjones" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=amajaying&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saiyan7&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 <!-- Footer -->
