@@ -13,14 +13,14 @@
  class WhoAmI:
  	name = 'Sayan Mandal'
 	current_education = "B.Tech IT"
-	hobbies = [
-				'Coding',
-				'Listening to Music ;-;',
-				'Watching Series :)',
-		                'Making friends ...'
+	hobbies: List[str] = [
+                              'Coding',
+                              'Music',
+                              'Series',
+                              'Making friends'
+                             ]
+
 				
-        			
-			]
 			
 	# return city name ...
 	def getCity():
