@@ -17,7 +17,7 @@
 
                                'Coding',
                                'Music',
-                               'Series',
+                               'Playing Cricket',
                                'Making friends'.
 
                              ]
