@@ -43,15 +43,13 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently working on **Deep Learning & Gen AI.**
+- 🔭 I’m currently learning on **Deep Learning(CV, NLP) & polishing my DSA skills.**
 
-- 🌱 I’m currently learning **LLMs & polishing my DSA skills.**
-
-- 👯 I’m looking to collaborate on **ML/AI/Web dev projects.**
+- 👯 I’m looking to collaborate on **AI/ML/DL/GenAI/Web dev projects.**
 
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning & Web Development.**
+- 💬 Ask me about **Data Science, AI/ML**
 
 - 📫 How to reach me **sayanjones77@gmail.com**
 
