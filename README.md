@@ -43,7 +43,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently learning on **Deep Learning & polishing my DSA skills.**
+- 🔭 I’m currently learning **Deep Learning & polishing my DSA skills.**
 
 - 👯 I’m looking to collaborate on **AI/ML/DL/GenAI/Web dev projects.**
 
