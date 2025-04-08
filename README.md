@@ -27,7 +27,7 @@
 	def MyCity():
 		return Kolkata_India()
 		
-	# return public ambitions ...
+	# return public ambitions ....
 	def Ambitions():
 		Tring_Be_A_Perfectionist()
 		Connect_with_passionate_individuals()
