@@ -7,11 +7,11 @@
 
 ## Who am I :point_down:?
 ```python
- from Sayan_M import personal_details
+ from Sayan_HM import personal_details
  # from Sayan_Personal import personal_ambitions
  
  class WhoAmI:
- 	name = 'Sayan Mandal'
+ 	name = 'Sayan H. Mandal'
 	current_education = "B.Tech IT"
 	hobbies: List[str] = [
 
