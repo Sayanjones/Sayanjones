@@ -44,7 +44,7 @@
 - Contributor, [Hacktoberfest](https://hacktoberfest.com/) (Oct 2024 - Nov 2024)
 - Summer Research Intern, [IIEST, Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
 - Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
-- AI Software Developer, [buildspace](https://iotkiit.in) (Jun 2024 - Jul 2024)
+- AI Software Developer, [buildspace](https://buildspace.so/) (Jun 2024 - Jul 2024)
 - TECHgium Top Participant, [L&T Technology Services](https://www.ltts.com/) (Nov 2023 - Apr 2024)
 
 
