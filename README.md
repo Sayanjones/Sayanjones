@@ -51,7 +51,7 @@
 ## Current Status
 - 🔭 I’m currently working on **Machine Learning models & polishing my DSA skills.**
 
-- 👯 I’m looking to collaborate on **AI/DS/ML/DL/GenAI/Web dev projects.**
+- 👯 I’m looking to collaborate on **AI//ML/DL/GenAI/Web dev projects.**
 
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
