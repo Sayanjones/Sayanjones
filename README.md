@@ -39,11 +39,11 @@
 		# assume 10  more ambitions here ;)					
 ```
 ## 🧭 Timeline
-- Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (May 2024 - Present)
+- Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Present)
+- ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - Present)
 - Summer Research Intern, [IIEST, Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
 - Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
 - AI Software Developer, [buildspace](https://iotkiit.in) (Jun 2024 - Jul 2024)
-- Apprentice, [Juniper Networks](https://www.juniper.net/) (Jan 2024 - Mar 2024)
 - TECHgium Top Participant, [L&T Technology Services](https://www.ltts.com/) (Nov 2023 - Apr 2024)
 
 
