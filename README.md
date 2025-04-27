@@ -17,9 +17,9 @@
  # from Sayan_Personal import personal_ambitions
  
  class WhoAmI:
- 	name = 'Sayan H. Mandal'
-	current_education = "B.Tech IT"
-	hobbies: List[str] = [
+ 	Name = 'Sayan H. Mandal'
+	Education = "B.Tech IT KIIT"
+	Hobbies: List[str] = [
 
                                'Coding',
                                'Music',
