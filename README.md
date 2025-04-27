@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+,+This+is+Sayan;Undergrad+AI+Researcher🧑‍🔬;Open+Source+Contributor💻;enthuastic+about+MLOps;+and+Generative+AI">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+This+is+Sayan;Undergrad+AI+Researcher🧑‍🔬;Open+Source+Contributor💻;enthuastic+about+MLOps;+and+Generative+AI">
 </p>
 <hr>
 
