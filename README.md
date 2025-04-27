@@ -38,6 +38,16 @@
 		Leave_a_lasting_mark()
 		# assume 10  more ambitions here ;)					
 ```
+
+<table>
+  <tr>
+      <td><a href="https://github.com/Sayanjones"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://twitter.com/sayanjones7"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://www.linkedin.com/in/sayan-mandal7"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:sayanjones77@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
 ## 🧭 Timeline
 - Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Present)
 - ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - Present)
