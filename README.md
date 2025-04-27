@@ -81,5 +81,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjones&" alt="sayanjones" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=saiyan7&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshansh-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <!-- Footer -->
