@@ -38,7 +38,18 @@
 		Leave_a_lasting_mark()
 		# assume 10  more ambitions here ;)					
 ```
-		
+## 🧭 Timeline
+- GSoC Student, [TensorFlow Organisation](https://github.com/tensorflow) (May 2021 - August 2021)
+- Undergraduate Student Researcher, [Jadavpur University](http://www.jaduniv.edu.in) (May 2021 - February 2022)
+- Summer Research Intern, [IIEST, Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
+- Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
+- AI Software Developer, [buildspace](https://iotkiit.in) (Jun 2024 - Jul 2024)
+- Apprentice, [Juniper Networks](https://www.juniper.net/) (Jan 2024 - Mar 2024)
+- TECHgium Top Participant, [L&T Technology Services](https://www.ltts.com/) (Nov 2023 - Apr 2024)
+
+
+
+
 
 ## Current Status
 - 🔭 I’m currently working on **Machine Learning models & polishing my DSA skills.**
@@ -47,7 +58,7 @@
 
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
-- 💬 I’m currently learning **Generative AI & LLMs.**
+- 🌱 I’m currently learning **Generative AI & LLMs.**
 
 - 📫 How to reach me **sayanjones77@gmail.com**
 
