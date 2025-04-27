@@ -41,6 +41,7 @@
 ## 🧭 Timeline
 - Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Present)
 - ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - Present)
+- Contributor, [Hacktoberfest](https://hacktoberfest.com/) (Oct 2024 - Nov 2024)
 - Summer Research Intern, [IIEST, Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
 - Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
 - AI Software Developer, [buildspace](https://iotkiit.in) (Jun 2024 - Jul 2024)
@@ -58,10 +59,6 @@
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
 - 🌱 I’m currently learning **Generative AI & LLMs.**
-
-- 📫 How to reach me **sayanjones77@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1YSGrri_7fEFLODClM4FIbVjmPEwMp0An/view?usp=sharing)
 
 ---
 
