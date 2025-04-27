@@ -20,15 +20,12 @@
  	Name = 'Sayan H. Mandal'
 	Education = "B.Tech IT"
 	Hobbies: List[str] = [
-
                                'Coding',
                                'Music',
                                'Playing Cricket',
                                'Making friends'.
-
                              ]
-
-				
+			
 	# return city name ...
 	def MyCity():
 		return Kolkata_India()
@@ -41,12 +38,9 @@
 		Leave_a_lasting_mark()
 		# assume 10  more ambitions here ;)
 		
-		
-	
-```
 			
-
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+```
+		
 
 ## Current Status
 - 🔭 I’m currently working on **Machine Learning models & polishing my DSA skills.**
