@@ -1,4 +1,4 @@
-<hr>
+_<hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Sayan;Undergrad+AI+Researcher;Open+Source+Contributor💻;enthuastic+about+MLOps;+and+Generative+AI">
 </p>
@@ -55,7 +55,7 @@
 
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
 
-- 💬 Ask me about **Data Science, AI/ML**
+- 💬 I’m currently learning **Generative AI & LLMs.**
 
 - 📫 How to reach me **sayanjones77@gmail.com**
 
@@ -88,3 +88,4 @@
   <img src="https://komarev.com/ghpvc/?username=Sayanjones&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <!-- Footer -->
+_
