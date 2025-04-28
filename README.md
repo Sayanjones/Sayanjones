@@ -65,7 +65,6 @@
 
 - 🌱 I’m currently learning **Generative AI & LLMs.**
 
----
 
 ## 👨 Social:
 
@@ -73,7 +72,6 @@
 2. [Medium](https://medium.com/@sayanmandal77777)
 6. [Twitter](https://x.com/sayanjones7)
 
----
 
 ## 🛠️ My Tech Stack:
 
@@ -120,8 +118,6 @@
   </tr>
 </table>
 
-
----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanjones&show_icons=true&locale=en&layout=compact" alt="sayanjones" /></p>
 
