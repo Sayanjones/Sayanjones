@@ -61,7 +61,7 @@
 
 
 
-## Current Status
+## 🚀 Current Status
 - 🔭 I’m currently working on **Machine Learning models & polishing my DSA skills.**
 
 - 👯 I’m looking to collaborate on **AI//ML/DL/GenAI/Web dev projects.**
@@ -80,7 +80,7 @@
 
 ---
 
-# 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 <table>
   <tr>
