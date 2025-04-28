@@ -4,11 +4,6 @@
 </p>
 <hr>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
 <!--defining python code section-->
 
 ## Who am I :point_down:?
@@ -131,6 +126,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanjones&show_icons=true&locale=en&layout=compact" alt="sayanjones" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjones&" alt="sayanjones" /></p>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
