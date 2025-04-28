@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-## 🧭 Timeline
+## 🧭 Timeline:
 - Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Present)
 - ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - Present)
 - Contributor, [Hacktoberfest](https://hacktoberfest.com/) (Oct 2024 - Nov 2024)
@@ -61,7 +61,7 @@
 
 
 
-## 🚀 Current Status
+## 🚀 Current Status:
 - 🔭 I’m currently working on **Machine Learning models & polishing my DSA skills.**
 
 - 👯 I’m looking to collaborate on **AI//ML/DL/GenAI/Web dev projects.**
@@ -80,7 +80,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack:
 
 <table>
   <tr>
