@@ -112,7 +112,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
       <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
-      <a href="https://www.langchain.dev/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/favicon.ico" width="40" height="40" alt="LangChain"/></a>
+      <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/></a>
     </td>
     <td align="center">
       <h3>Tools</h3>
