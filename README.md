@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/Sayanjones"><img src="https://img.shields.io/github/followers/Sayanjones.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/sayanjones7"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://twitter.com/sayanjones7"><img src="https://img.shields.io/twitter/follow/sayanjones7?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/sayan-mandal7"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:sayanjones77@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
