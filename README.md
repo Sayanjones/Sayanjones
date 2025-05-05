@@ -45,7 +45,7 @@
 
 ## 🧭 Timeline:
 - Undergraduate AI Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Present)
-- ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - Present)
+- ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - May 2025)
 - Contributor, [Hacktoberfest](https://hacktoberfest.com/) (Oct 2024 - Nov 2024)
 - Summer Research Intern, [IIEST, Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
 - Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
