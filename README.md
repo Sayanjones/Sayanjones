@@ -73,178 +73,38 @@
 
 ## 🛠️ My Tech Stack:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills Component</title>
-    <style>
-        .skills-container {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #1a1a1a;
-            border-radius: 12px;
-            color: white;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        }
+## 🛠️ Skills & Technologies
 
-        .skills-title {
-            text-align: center;
-            margin-bottom: 20px;
-            font-size: 1.3rem;
-            font-weight: 600;
-            color: #fff;
-        }
+<table>
+<tr>
+<td>
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-        }
+**Languages**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
 
-        .skill-category {
-            background: #2a2a2a;
-            border-radius: 8px;
-            padding: 15px;
-            border: 1px solid #333;
-        }
+</td>
+<td>
 
-        .category-title {
-            font-size: 0.9rem;
-            font-weight: 500;
-            margin-bottom: 12px;
-            color: #e0e0e0;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
+**Cloud Platforms**  
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40">
 
-        .icons-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            align-items: center;
-        }
+</td>
+</tr>
+<tr>
+<td>
 
-        .skill-icon {
-            width: 32px;
-            height: 32px;
-            transition: transform 0.2s ease;
-            border-radius: 4px;
-        }
+**Frameworks & Libraries**  
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40">
 
-        .skill-icon:hover {
-            transform: scale(1.1);
-        }
+</td>
+<td>
 
-        @media (max-width: 500px) {
-            .skills-grid {
-                grid-template-columns: 1fr;
-            }
-            .skill-icon {
-                width: 28px;
-                height: 28px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="skills-container">
-        <div class="skills-title">🛠️ Skills & Technologies</div>
-        
-        <div class="skills-grid">
-            <div class="skill-category">
-                <div class="category-title">💻 Languages</div>
-                <div class="icons-row">
-                    <a href="https://www.w3schools.com/cpp/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon">
-                    </a>
-                    <a href="https://www.w3schools.com/css/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" class="skill-icon">
-                    </a>
-                    <a href="https://www.w3.org/html/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" class="skill-icon">
-                    </a>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" class="skill-icon">
-                    </a>
-                    <a href="https://www.java.com" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="skill-icon">
-                    </a>
-                    <a href="https://www.python.org" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="skill-icon">
-                    </a>
-                </div>
-            </div>
+**Tools**  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">
 
-            <div class="skill-category">
-                <div class="category-title">☁️ Cloud Platforms</div>
-                <div class="icons-row">
-                    <a href="https://cloud.google.com" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" class="skill-icon">
-                    </a>
-                    <a href="https://aws.amazon.com" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" class="skill-icon">
-                    </a>
-                    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" class="skill-icon">
-                    </a>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <div class="category-title">📚 Frameworks & Libraries</div>
-                <div class="icons-row">
-                    <a href="https://www.djangoproject.com/" target="_blank">
-                        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" class="skill-icon">
-                    </a>
-                    <a href="https://www.tensorflow.org" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" class="skill-icon">
-                    </a>
-                    <a href="https://scikit-learn.org/" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" class="skill-icon">
-                    </a>
-                    <a href="https://numpy.org/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" class="skill-icon">
-                    </a>
-                    <a href="https://pandas.pydata.org/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" class="skill-icon">
-                    </a>
-                    <a href="https://opencv.org/" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" class="skill-icon">
-                    </a>
-                    <a href="https://matplotlib.org/" target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" class="skill-icon">
-                    </a>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <div class="category-title">🛠️ Tools</div>
-                <div class="icons-row">
-                    <a href="https://git-scm.com/" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="skill-icon">
-                    </a>
-                    <a href="https://www.linux.org/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="skill-icon">
-                    </a>
-                    <a href="https://docker.com/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" class="skill-icon">
-                    </a>
-                    <a href="https://www.figma.com/" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" class="skill-icon">
-                    </a>
-                    <a href="https://www.mysql.com/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="skill-icon">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+</td>
+</tr>
+</table>
            
 
 <!-- Snake Animation -->
