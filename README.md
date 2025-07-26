@@ -73,76 +73,52 @@
 
 ## 🛠️ My Tech Stack:
 
-<style>
-  .tech-section {
-    text-align: center;
-    padding: 30px 10px;
-    font-family: sans-serif;
-  }
+<table align="center" width="100%" cellspacing="20">
+  <tr>
+    <!-- Languages -->
+    <td align="center" valign="top">
+      <h3>Languages</h3>
+      <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++"></a>
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" title="CSS3"></a>
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" title="HTML5"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"></a>
+      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" title="Java"></a>
+      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" title="Python"></a>
+    </td>
 
-  .tech-section h3 {
-    margin-bottom: 15px;
-    font-size: 1.4rem;
-  }
+    <!-- Cloud Platforms -->
+    <td align="center" valign="top">
+      <h3>Cloud Platforms</h3>
+      <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP" title="Google Cloud"></a>
+      <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" title="AWS"></a>
+      <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure" title="Azure"></a>
+    </td>
 
-  .tech-icons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-    margin-bottom: 30px;
-  }
+    <!-- Tools -->
+    <td align="center" valign="top">
+      <h3>Tools</h3>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" title="Git"></a>
+      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"></a>
+      <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" title="Docker"></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" title="Figma"></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" title="MySQL"></a>
+    </td>
+  </tr>
 
-  .tech-icons a img {
-    width: 40px;
-    height: 40px;
-    transition: transform 0.2s ease;
-  }
-
-  .tech-icons a:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
-<div class="tech-section">
-  <h3>Languages</h3>
-  <div class="tech-icons">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"></a>
-    <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a>
-    <a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></a>
-    <a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></a>
-  </div>
-
-  <h3>Cloud Platforms</h3>
-  <div class="tech-icons">
-    <a href="https://cloud.google.com" target="_blank" title="Google Cloud"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP"></a>
-    <a href="https://aws.amazon.com" target="_blank" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure"></a>
-  </div>
-
-  <h3>Frameworks & Libraries</h3>
-  <div class="tech-icons">
-    <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"></a>
-    <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"></a>
-    <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn"></a>
-    <a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></a>
-    <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas"></a>
-    <a href="https://opencv.org/" target="_blank" title="OpenCV"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV"></a>
-    <a href="https://matplotlib.org/" target="_blank" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib"></a>
-  </div>
-
-  <h3>Tools</h3>
-  <div class="tech-icons">
-    <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></a>
-    <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
-    <a href="https://docker.com/" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"></a>
-    <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"></a>
-    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></a>
-  </div>
-</div>
-
+  <tr>
+    <!-- Frameworks & Libraries -->
+    <td colspan="3" align="center">
+      <h3>Frameworks & Libraries</h3>
+      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django" title="Django"></a>
+      <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" title="TensorFlow"></a>
+      <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn" title="Scikit-learn"></a>
+      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy"></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"></a>
+      <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" alt="OpenCV" title="OpenCV"></a>
+      <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib" title="Matplotlib"></a>
+    </td>
+  </tr>
+</table>
 
 
 
