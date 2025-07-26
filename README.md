@@ -73,272 +73,69 @@
 
 ## 🛠️ My Tech Stack:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills & Technologies</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
+## 🛠️ Skills & Technologies
 
-        .skills-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 20px;
-            padding: 40px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            backdrop-filter: blur(10px);
-        }
+<table>
+<tr>
+<td align="center" width="50%">
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 40px;
-            margin-top: 20px;
-        }
+### 💻 Languages
+<p>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
 
-        .skill-category {
-            background: #fff;
-            border-radius: 16px;
-            padding: 30px;
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border: 1px solid #f0f0f0;
-        }
+</td>
+<td align="center" width="50%">
 
-        .skill-category:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
-        }
+### ☁️ Cloud Platforms
+<p>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+</p>
 
-        .skill-category h3 {
-            color: #2d3748;
-            font-size: 1.5rem;
-            font-weight: 600;
-            margin-bottom: 25px;
-            text-align: center;
-            position: relative;
-        }
+</td>
+</tr>
 
-        .skill-category h3::after {
-            content: '';
-            position: absolute;
-            bottom: -8px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 50px;
-            height: 3px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            border-radius: 2px;
-        }
+<tr>
+<td align="center">
 
-        .skills-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-            gap: 20px;
-            justify-items: center;
-        }
+### 📚 Frameworks & Libraries
+<p>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
+</p>
 
-        .skill-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            padding: 15px;
-            border-radius: 12px;
-            background: #fafafa;
-            border: 2px solid transparent;
-        }
+</td>
+<td align="center">
 
-        .skill-item:hover {
-            background: #f0f7ff;
-            border-color: #667eea;
-            transform: scale(1.05);
-        }
+### 🛠️ Tools
+<p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
 
-        .skill-icon {
-            width: 50px;
-            height: 50px;
-            object-fit: contain;
-            margin-bottom: 8px;
-            transition: transform 0.3s ease;
-        }
+</td>
+</tr>
+</table>
 
-        .skill-item:hover .skill-icon {
-            transform: rotate(5deg) scale(1.1);
-        }
-
-        .skill-name {
-            font-size: 0.8rem;
-            color: #4a5568;
-            font-weight: 500;
-            text-align: center;
-            line-height: 1.2;
-        }
-
-        .skill-item:hover .skill-name {
-            color: #667eea;
-        }
-
-        @media (max-width: 768px) {
-            .skills-container {
-                padding: 20px;
-                margin: 10px;
-            }
-            
-            .skills-grid {
-                grid-template-columns: 1fr;
-                gap: 25px;
-            }
-            
-            .skill-category {
-                padding: 20px;
-            }
-            
-            .skills-list {
-                grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
-                gap: 15px;
-            }
-        }
-
-        @media (prefers-reduced-motion: reduce) {
-            * {
-                animation: none !important;
-                transition: none !important;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="skills-container">
-        <div class="skills-grid">
-            <div class="skill-category">
-                <h3>Languages</h3>
-                <div class="skills-list">
-                    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon" loading="lazy">
-                        <span class="skill-name">C++</span>
-                    </a>
-                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" class="skill-icon" loading="lazy">
-                        <span class="skill-name">CSS3</span>
-                    </a>
-                    <a href="https://www.w3.org/html/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" class="skill-icon" loading="lazy">
-                        <span class="skill-name">HTML5</span>
-                    </a>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" class="skill-icon" loading="lazy">
-                        <span class="skill-name">JavaScript</span>
-                    </a>
-                    <a href="https://www.java.com" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Java</span>
-                    </a>
-                    <a href="https://www.python.org" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Python</span>
-                    </a>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <h3>Cloud Platforms</h3>
-                <div class="skills-list">
-                    <a href="https://cloud.google.com" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" class="skill-icon" loading="lazy">
-                        <span class="skill-name">GCP</span>
-                    </a>
-                    <a href="https://aws.amazon.com" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" class="skill-icon" loading="lazy">
-                        <span class="skill-name">AWS</span>
-                    </a>
-                    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Azure</span>
-                    </a>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <h3>Frameworks & Libraries</h3>
-                <div class="skills-list">
-                    <a href="https://www.djangoproject.com/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Django</span>
-                    </a>
-                    <a href="https://www.tensorflow.org" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" class="skill-icon" loading="lazy">
-                        <span class="skill-name">TensorFlow</span>
-                    </a>
-                    <a href="https://scikit-learn.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Scikit-learn</span>
-                    </a>
-                    <a href="https://numpy.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" class="skill-icon" loading="lazy">
-                        <span class="skill-name">NumPy</span>
-                    </a>
-                    <a href="https://pandas.pydata.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Pandas</span>
-                    </a>
-                    <a href="https://opencv.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" class="skill-icon" loading="lazy">
-                        <span class="skill-name">OpenCV</span>
-                    </a>
-                    <a href="https://matplotlib.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Matplotlib</span>
-                    </a>
-                </div>
-            </div>
-
-            <div class="skill-category">
-                <h3>Tools</h3>
-                <div class="skills-list">
-                    <a href="https://git-scm.com/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Git</span>
-                    </a>
-                    <a href="https://www.linux.org/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Linux</span>
-                    </a>
-                    <a href="https://docker.com/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Docker</span>
-                    </a>
-                    <a href="https://www.figma.com/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" class="skill-icon" loading="lazy">
-                        <span class="skill-name">Figma</span>
-                    </a>
-                    <a href="https://www.mysql.com/" target="_blank" rel="noopener" class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="skill-icon" loading="lazy">
-                        <span class="skill-name">MySQL</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
-
-
+</div>
+           
 
 <!-- Snake Animation -->
 <div align="center">
