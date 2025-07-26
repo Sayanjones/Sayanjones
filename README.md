@@ -70,7 +70,6 @@
 2. [Medium](https://medium.com/@sayanmandal77777)
 3. [Twitter](https://x.com/sayanjones7)
 4. [Instagram](https://www.instagram.com/_tensors.hm_/)
-5. 
 
 
 <!-- Snake Animation -->
