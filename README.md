@@ -62,7 +62,7 @@
 - 🔭 I’m currently working on **Deep Learning models & polishing my DSA skills.**
 - 👯 I’m looking to collaborate on **AI/ML/DL/GenAI/Web dev projects.**
 - 📝 I write articles on [MEDIUM](https://medium.com/@sayanmandal77777)
-- 🌱 I’m currently learning **Generative AI & LLMs.**
+- 🌱 I’m currently learning **Generative AI & LLMs\VLMs.**
 
 
 ## 👨 Social:
