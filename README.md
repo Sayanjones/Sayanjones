@@ -18,7 +18,7 @@
                                'Coding',
                                'Music',
                                'Playing Cricket',
-                               'Watching Football,
+                               'Watching Football',
                                'Making friends.'
                              ]
 			
