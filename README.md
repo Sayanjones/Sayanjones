@@ -18,7 +18,8 @@
                                'Coding',
                                'Music',
                                'Playing Cricket',
-                               'Making friends'.
+                               'Watching Football,
+                               'Making friends.'
                              ]
 			
 	# return city name ...
