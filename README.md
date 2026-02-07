@@ -13,7 +13,7 @@
  
  class WhoAmI:
  	Name = 'Sayan H. Mandal'
-	Education = "B.Tech IT"
+	Education = "B.Tech IT", "M.Tech AI."
 	Hobbies: List[str] = [
                                'Coding',
                                'Music',
