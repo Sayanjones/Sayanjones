@@ -53,7 +53,7 @@
 - Summer Research Intern, [IIEST Shibpur](https://www.iiests.ac.in/) (Jul 2024 - Aug 2024)
 - Open Source Contributor, [GirlScript Summer of Code](https://gssoc.girlscript.tech/) (May 2024 - Aug 2024)
 - AI Developer, [buildspace](https://buildspace.so/) (Jun 2024 - Jul 2024)
-- TECHgium Top Participant, [L&T Technology Services](https://www.ltts.com/) (Nov 2023 - Apr 2024)
+- Project Intern(part of TECHGiUM Challenge), [L&T Technology Services](https://www.ltts.com/) (Nov 2023 - Apr 2024)
 
 
 
