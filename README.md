@@ -45,7 +45,6 @@
 </table>
 
 ## 🧭 Timeline:
-- Research Assistant, [NIT Rourkela](https://www.nitrkl.ac.in/) (Dec 2025 - Jan 2026)
 - Research Fellow, [IIIT-Hyderabad](https://www.iiit.ac.in/) (Jun 2025 - Sep 2025)
 - Undergraduate ML Researcher, [Jadavpur University](https://jadavpuruniversity.in/) (Jun 2024 - Jun 2025)
 - ML Team Lead, [AWS Cloud Club KiiT](https://www.linkedin.com/company/aws-cloud-club-kiit/posts/?feedView=all) (Jul 2024 - May 2025)
